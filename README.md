@@ -22,19 +22,19 @@ The last animal of interest is the sloth. As we all know, sloths are extremely s
 Pairwise Sequence Alignment will be used in this research to compare genetic similarity in the gene FKBP5 for both human and animals.
 Phylogenetic Clustering will be used to create and illustrate a phylogenetic tree to display the relations between the FKBP5 gene in human vs the animals of interest. Results will show which animals, out of three, are most similar to humans.
 
-# Tools
+# Tools, Links, and Datas Needed
 
 NCBI: National Center for Biotechnology Information
 
 NCBI Nucleotide Accessions
 
-Human (Homo sapiens): NM_001145775.3 
+Human (Homo sapiens): NM_001145775.3 https://www.ncbi.nlm.nih.gov/nuccore/NM_001145775.3
 
-Rat (Rattus norvegicus): NM_001012174.2
+Rat (Rattus norvegicus): NM_001012174.2 https://www.ncbi.nlm.nih.gov/nuccore/NM_001012174.2 
 
-Monkey (Saimiri boliviensis): NM_001280014.1
+Monkey (Saimiri boliviensis): NM_001280014.1 https://www.ncbi.nlm.nih.gov/nuccore/NM_001280014.1
 
-Sloth (Choloepus didactylus): XM_037842905
+Sloth (Choloepus didactylus): XM_037842905 https://www.ncbi.nlm.nih.gov/nuccore/XM_037842905 
 
 Source:
 
