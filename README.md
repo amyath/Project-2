@@ -1,16 +1,19 @@
 # Project-2
-Scientific Question
+# Scientific Question
 
 How does the gene FKBP5 in animals contribute to further studies of stress response and cellular processes in the human body?
-Background of Gene FKBP5
+
+#Background of Gene FKBP5
 
 FKBP5, also known as FK506 binding protein 5, is an important modulator of stress response. The gene FKBP5 acts as a co-chaperone that modulates the glucocorticoid receptor activity in response to stressors and other cellular processes in the brain and periphery (Zannas et al. 2016)
 FKBP5 is a strong inhibitor of the glucocorticoid receptor (GR)
 The upregulation of FKBP5 will activate GR and its sensitivity, which increases stress hormone system and regulation. Furthermore, effiency of the negative feedback of the stress hormone axis decreases in health control (Binder 20090
-Scientific Hypothesis:
+
+# Scientific Hypothesis:
 
 If the gene FKBP5 is associated with depression and stress in both humans and animals, and this gene in animals are genetic simialr to humans, then researchers can use analyzed data to further study stress response and cellular processes in humans and find more information on how the regulation of FKBP5 impact their depressive diseases and disorders.
-Description of Analyses and Data
+
+# Description of Analyses and Data
 
 In order to answer the scientific question, we must compare the sequence identity and genetic similarities between human and animals. The animals of interests are rats, monkeys, and sloth.
 Rats was selected to be the animal of interest because many scientists and their studies believe that rats and mice are anatomically, physiologically, and genetically similary to humans. It would be interesting to compare whether or not the gene FKBP5 in rats are similar to humans than other animals (Bryda 2013).
@@ -18,7 +21,8 @@ Because the gene FKBP5 is related to stress response and cellular processes, we 
 The last animal of interest is the sloth. As we all know, sloths are extremely slow with low metabolic rate. We wanted to see if the FKBP5 gene in sloths is similar to human.
 Pairwise Sequence Alignment will be used in this research to compare genetic similarity in the gene FKBP5 for both human and animals.
 Phylogenetic Clustering will be used to create and illustrate a phylogenetic tree to display the relations between the FKBP5 gene in human vs the animals of interest. Results will show which animals, out of three, are most similar to humans.
-Tools
+
+#Tools
 
 NCBI: National Center for Biotechnology Information
 NCBI Nucleotide Accessions
@@ -27,6 +31,7 @@ Human (Homo sapiens): NM_001145775.3
 Rat (Rattus norvegicus): NM_001012174.2
 Monkey (Saimiri boliviensis): NM_001280014.1
 Sloth (Choloepus didactylus): XM_037842905
+
 Source:
 
 FKBP5: https://pubmed.ncbi.nlm.nih.gov/19560279/
