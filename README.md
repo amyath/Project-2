@@ -25,17 +25,23 @@ Phylogenetic Clustering will be used to create and illustrate a phylogenetic tre
 # Tools
 
 NCBI: National Center for Biotechnology Information
+
 NCBI Nucleotide Accessions
 
 Human (Homo sapiens): NM_001145775.3 
+
 Rat (Rattus norvegicus): NM_001012174.2
+
 Monkey (Saimiri boliviensis): NM_001280014.1
+
 Sloth (Choloepus didactylus): XM_037842905
 
 Source:
 
 FKBP5: https://pubmed.ncbi.nlm.nih.gov/19560279/
+
 Rat: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987984/
+
 Monkey: https://www.smithsonianmag.com/smart-news/whether-monkey-or-human-middle-managers-are-the-most-stressed-out-15191138/
 
 # Loading in Packages
