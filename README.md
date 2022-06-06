@@ -3,7 +3,7 @@
 
 How does the gene FKBP5 in animals contribute to further studies of stress response and cellular processes in the human body?
 
-#Background of Gene FKBP5
+# Background of Gene FKBP5
 
 FKBP5, also known as FK506 binding protein 5, is an important modulator of stress response. The gene FKBP5 acts as a co-chaperone that modulates the glucocorticoid receptor activity in response to stressors and other cellular processes in the brain and periphery (Zannas et al. 2016)
 FKBP5 is a strong inhibitor of the glucocorticoid receptor (GR)
@@ -22,7 +22,7 @@ The last animal of interest is the sloth. As we all know, sloths are extremely s
 Pairwise Sequence Alignment will be used in this research to compare genetic similarity in the gene FKBP5 for both human and animals.
 Phylogenetic Clustering will be used to create and illustrate a phylogenetic tree to display the relations between the FKBP5 gene in human vs the animals of interest. Results will show which animals, out of three, are most similar to humans.
 
-#Tools
+# Tools
 
 NCBI: National Center for Biotechnology Information
 NCBI Nucleotide Accessions
@@ -37,7 +37,8 @@ Source:
 FKBP5: https://pubmed.ncbi.nlm.nih.gov/19560279/
 Rat: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987984/
 Monkey: https://www.smithsonianmag.com/smart-news/whether-monkey-or-human-middle-managers-are-the-most-stressed-out-15191138/
-Loading in Packages
+
+# Loading in Packages
 Numpy: also know as Numerical Python, is a Python library used for working with different arrays. It has multiple functions that contains matrix data structures and mutlti-dimensional arrays. https://www.w3schools.com/python/numpy/numpy_intro.asp
 
 Pandas: is a Python library that can be used for data science, data analysis and machine learning tasks. Simiarly to many computer programs, Pandas is useful for computing data, read dataframes, and perform further analysis. Pandas make it easier to work with tabular data, which can perform all partw of analysis from collection of datas. https://github.com/stefmolin/pandas-workshop#:~:text=Pandas%20makes%20it%20possible%20to,manipulation%20through%20aggregation%20and%20visualization.
