@@ -6,7 +6,9 @@ How does the gene FKBP5 in animals contribute to further studies of stress respo
 # Background of Gene FKBP5
 
 FKBP5, also known as FK506 binding protein 5, is an important modulator of stress response. The gene FKBP5 acts as a co-chaperone that modulates the glucocorticoid receptor activity in response to stressors and other cellular processes in the brain and periphery (Zannas et al. 2016)
+
 FKBP5 is a strong inhibitor of the glucocorticoid receptor (GR)
+
 The upregulation of FKBP5 will activate GR and its sensitivity, which increases stress hormone system and regulation. Furthermore, effiency of the negative feedback of the stress hormone axis decreases in health control (Binder 20090
 
 # Scientific Hypothesis:
@@ -16,10 +18,15 @@ If the gene FKBP5 is associated with depression and stress in both humans and an
 # Description of Analyses and Data
 
 In order to answer the scientific question, we must compare the sequence identity and genetic similarities between human and animals. The animals of interests are rats, monkeys, and sloth.
+
 Rats was selected to be the animal of interest because many scientists and their studies believe that rats and mice are anatomically, physiologically, and genetically similary to humans. It would be interesting to compare whether or not the gene FKBP5 in rats are similar to humans than other animals (Bryda 2013).
+
 Because the gene FKBP5 is related to stress response and cellular processes, we want to see which animals are the most stressed out, and we found that mid-ranking monkeys may be stressed out more than humans (Nuwer 2013). Therefore, we wanted to collect datas on their FKBP5 and see whether their FKBP5 gene is more closely related to the human FKBP5 gene than other animals.
+
 The last animal of interest is the sloth. As we all know, sloths are extremely slow with low metabolic rate. We wanted to see if the FKBP5 gene in sloths is similar to human.
+
 Pairwise Sequence Alignment will be used in this research to compare genetic similarity in the gene FKBP5 for both human and animals.
+
 Phylogenetic Clustering will be used to create and illustrate a phylogenetic tree to display the relations between the FKBP5 gene in human vs the animals of interest. Results will show which animals, out of three, are most similar to humans.
 
 Source:
