@@ -33,6 +33,10 @@ Source:
 
 FKBP5: https://pubmed.ncbi.nlm.nih.gov/19560279/
 
+Rat: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987984/
+
+Monkey: https://www.smithsonianmag.com/smart-news/whether-monkey-or-human-middle-managers-are-the-most-stressed-out-15191138/
+
 # Tools, Links, and Datas Needed
 
 NCBI: National Center for Biotechnology Information
@@ -46,12 +50,6 @@ Rat (Rattus norvegicus): NM_001012174.2 https://www.ncbi.nlm.nih.gov/nuccore/NM_
 Monkey (Saimiri boliviensis): NM_001280014.1 https://www.ncbi.nlm.nih.gov/nuccore/NM_001280014.1
 
 Sloth (Choloepus didactylus): XM_037842905 https://www.ncbi.nlm.nih.gov/nuccore/XM_037842905 
-
-Source:
-
-Rat: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987984/
-
-Monkey: https://www.smithsonianmag.com/smart-news/whether-monkey-or-human-middle-managers-are-the-most-stressed-out-15191138/
 
 # Loading in Packages
 Numpy: also know as Numerical Python, is a Python library used for working with different arrays. It has multiple functions that contains matrix data structures and mutlti-dimensional arrays. https://www.w3schools.com/python/numpy/numpy_intro.asp
